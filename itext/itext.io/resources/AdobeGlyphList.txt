@@ -2353,6 +2353,7 @@ kafdagesh;FB3B
 kafdageshhebrew;FB3B
 kaffinalarabic;FEDA
 kafhebrew;05DB
+kaffinal;D79A
 kafinitialarabic;FEDB
 kafmedialarabic;FEDC
 kafrafehebrew;FB4D
@@ -2619,6 +2620,7 @@ mem;05DE
 memdagesh;FB3E
 memdageshhebrew;FB3E
 memhebrew;05DE
+memfinal;05DD
 menarmenian;0574
 merkhahebrew;05A5
 merkhakefulahebrew;05A6
@@ -2817,6 +2819,7 @@ nsuperior;207F
 ntilde;00F1
 nu;03BD
 nuhiragana;306C
+nunfinal;05DF
 nukatakana;30CC
 nukatakanahalfwidth;FF87
 nuktabengali;09BC
@@ -3026,6 +3029,7 @@ pedagesh;FB44
 pedageshhebrew;FB44
 peezisquare;333B
 pefinaldageshhebrew;FB43
+pefinal;D7A3
 peharabic;067E
 peharmenian;057A
 pehebrew;05E4
@@ -3839,6 +3843,7 @@ ts;02A6
 tsadi;05E6
 tsadidagesh;FB46
 tsadidageshhebrew;FB46
+tsadifinal;D7A5
 tsadihebrew;05E6
 tsecyrillic;0446
 tsere;05B5
